@@ -5,3 +5,4 @@
 - ajax
 - Web Service
 
+[Site : ](https://mignotmorgan.github.io/ajax-simple-web-service-request/. ) [https://mignotmorgan.github.io/ajax-simple-web-service-request/. ](https://mignotmorgan.github.io/ajax-simple-web-service-request/. )
